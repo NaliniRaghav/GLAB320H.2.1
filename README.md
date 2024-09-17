@@ -10,7 +10,7 @@ This is a simple React application built as part of the GLAB 320H.2.1 - Building
 
 Features
 
-Header: Displays the title of the page. The webpage is displaying the content about React library.
+Header: Displays the title of the page. The webpage displays the content about React library.
 Content: Displays dynamic paragraphs with different colors and text, using props.
 Footer: Displays React creater's quote. 
 
