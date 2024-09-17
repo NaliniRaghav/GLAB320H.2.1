@@ -10,9 +10,9 @@ This is a simple React application built as part of the GLAB 320H.2.1 - Building
 
 Features
 
-Header: Displays the title of the application.
+Header: Displays React creater's quote.
 Content: Displays dynamic paragraphs with different colors and text, using props.
-Footer: Displays the author's name.
+Footer: Displays React creater's quote. 
 
 Technologies Used
 
@@ -30,6 +30,7 @@ CSS: Used Inline styling.
    - Props: 
      - 'color'(string) - The color of the text.
      - 'text' (string) - The content to display.
+     - 'fontFamily' (string) - The font family of content.
 
 2 Footer**: Displays the footer text.
 
