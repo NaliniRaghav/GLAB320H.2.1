@@ -36,27 +36,27 @@ CSS: Used Inline styling.
 
 Setup Instructions
 
-Install Node.js and npm**: Ensure you have Node.js and npm installed on your machine. You can check by running:
+Install Node.js and npm: Ensure you have Node.js and npm installed on your machine. You can check by running:
    bash
    node -v
    npm -v
    
 
-1 Clone the Repository**: Clone this repository to your local machine.
+1 Clone the Repository: Clone this repository to your local machine.
    
 
-   1 Navigate to the project folder**: 
+   1 Navigate to the project folder: 
    
    cd GLAB320H.2.1
    
 
-1  Install Dependencies**:
+1  Install Dependencies:
    Run the following command to install the required dependencies:
   
    npm install
   
 
-2  Start the Application**:
+2  Start the Application:
    Run the following command to start the application:
  
    npm start
