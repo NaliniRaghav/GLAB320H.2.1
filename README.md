@@ -27,12 +27,12 @@ CSS: Used Inline styling.
  Props: 'title' (string) - The title to display in the header.
 
 1 Content: Displays dynamic text and color based on props.
-   - Props: 
+ Props: 
      - 'color'(string) - The color of the text.
      - 'text' (string) - The content to display.
      - 'fontFamily' (string) - The font family of content.
 
-2 Footer**: Displays the footer text.
+2 Footer: Displays the footer text.
 
 Setup Instructions
 
